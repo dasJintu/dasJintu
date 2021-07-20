@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @dasJintu
-- 👀 I’m interested in coding & movies
-- 🌱 I’m currently learning web developement
+- 👀 I’m interested in front end development
+- 🌱 I’m currently learning react.js
 - 💞️ I’m looking to collaborate on any frontend projects
-- 📫 Reach me by jintudas07@gmail.com
+- 📫 Reach me by jintudas047@gmail.com
 
 <!---
 dasJintu/dasJintu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
