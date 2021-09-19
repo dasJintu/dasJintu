@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Guwahati, India</h3>
 <br />
 
-- 🌱 I’m currently learning **MongoDB**
+- 🌱 I’m currently learning **Next.js**
 
 - 👯 I’m looking to collaborate on **any frontend projects**
 
